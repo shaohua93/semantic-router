@@ -164,4 +164,5 @@ If you find Semantic Router helpful in your research or projects, please conside
 
 We opened the project at Aug 31, 2025. We love open source  and collaboration ❤️
 
-[![Star History Chart](https://api.star-history.com/svg?repos=vllm-project/semantic-router&type=Date)](https://www.star-history.com/#vllm-project/semantic-router&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=vllm-project/semantic-router&type=Date)]
+(https://www.star-history.com/#vllm-project/semantic-router&Date)
